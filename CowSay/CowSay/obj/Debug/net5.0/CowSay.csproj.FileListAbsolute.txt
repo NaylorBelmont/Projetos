@@ -1,0 +1,16 @@
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.exe
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.deps.json
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.runtimeconfig.json
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.runtimeconfig.dev.json
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.dll
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\ref\CowSay.dll
+D:\Projetos\CowSay\CowSay\bin\Debug\net5.0\CowSay.pdb
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.csproj.AssemblyReference.cache
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.AssemblyInfoInputs.cache
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.AssemblyInfo.cs
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.csproj.CoreCompileInputs.cache
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.dll
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\ref\CowSay.dll
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.pdb
+D:\Projetos\CowSay\CowSay\obj\Debug\net5.0\CowSay.genruntimeconfig.cache
